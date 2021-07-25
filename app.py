@@ -17,7 +17,7 @@ posts = [
         'title':'Machine Learning',
         'content':"First POst ",
         'date_posted':'April 29,2021'
-    }
+    },
 
 ]
 
